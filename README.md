@@ -44,7 +44,7 @@ Welcome to the official guide to all things Dream Tech or Dream Studios.
 * [Kotlin](Kotlin/Kotlin_Resources.md)
 * [Rails](Rails/rails_resources.md)
 * [Ruby](Ruby/ruby_resources.md)
-* [Linux](Linux)
+* [NovaOS](Linux)
 * [Compilers](Compilers/resources.md)
 * [Open Source Guide](https://opensource.guide/)
 * [Discrete Mathematics](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Discrete%20Mathematics/discrete-math.md)
