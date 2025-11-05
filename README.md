@@ -11,22 +11,22 @@
 ---
 Welcome to the official guide to all things Dream Tech or Dream Studios.
 
-## Help us in getting a domain name
+## Nova OS Help
 
-[<img src="https://opencollective.com/public/images/become_sponsor.svg">](https://opencollective.com/algowiki/events/help-us-in-buying-a-domain-name-9586ev)
+[<img src="https://github.com/DreamTechVR/DreamTechVR.github.io/blob/gh-pages/unnamed.png">](https://opencollective.com/algowiki/events/help-us-in-buying-a-domain-name-9586ev)
 
 
 ## Navigation
 
 **Some of the links below contain only Pdfs books. We will add websites and video resources soon!**
 
-* [All about Competitive-Programming](Competitive-Programming/Competitive-Programming.md)
-* [Algorithms and Their Implement from different sources](Algorithms/Sources.md)
-* [Free Algorithm Books](Free-Books/Algorithms-Data_Structures.md)
-* [Free Data Science Book pdfs](Free-Books/Data%20Science.md)
-* [Machine Learning](Machine-Learning/Sources.md)
-* [Artificial Intelligence](Artifical_Intelligence/resources.md)
-* [All about C](C/sources.md)
+* [TiderMotors Source code](Competitive-Programming/Competitive-Programming.md)
+* [Dream VR SDK](Algorithms/Sources.md)
+* [NovaOS Source Code](Free-Books/Algorithms-Data_Structures.md)
+* [Github](https://github.com/DreamTechStudios)
+* [NovaOS, Eclipse, and Linux development](Machine-Learning/Sources.md)
+* [Cmake](Artifical_Intelligence/resources.md)
+* [Unity VR SDK](C/sources.md)
 * [All about C++](C_plus_plus/resources.md)
 * [All about Java](java/Java_Resources.md)
 * [All about Objective-C](Objective_C/sources.md)
